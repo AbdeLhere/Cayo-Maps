@@ -34,3 +34,8 @@ This is a Cayo Perico minimaps for FiveM, created specifically for those using *
     ```
 
 4. Restart the script (it’s recommended to restart the server) to complete the setup.
+
+### Preview
+
+![3](https://github.com/user-attachments/assets/91833745-b37d-4795-a926-3beb117743c5)![3](https://github.com/user-attachments/assets/e1d05563-337e-4c75-989b-a233ac9d80d5)
+
