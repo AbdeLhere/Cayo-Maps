@@ -1,3 +1,7 @@
+# ⚠️ No Support Provided
+This project is fully open source and provided as-is.
+Feel free to explore, modify, and use it however you like, but please note that I do not offer any support for it. Thank you !
+
 ### **Useful Links 😊**
 
 * [Join Our Discord](https://discord.gg/jgM5jW3rrN)
